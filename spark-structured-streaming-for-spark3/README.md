@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Welcome to the Spark-Structured Streaming project! This project aims to provide a robust and scalable solution for real-time stream processing using Apache Spark's Structured Streaming library. It allows you to process continuous streams of data with ease, enabling you to build powerful applications that react to data changes in real-time.
+Welcome to Spark 3 Structured Streaming guide! This project aims to guide/walk you through how to set up packages and environment for your spark 3 streaming application
 
 ## **Features**
 
@@ -16,7 +16,7 @@ Welcome to the Spark-Structured Streaming project! This project aims to provide 
 
 ## **Installation ( for Spark 3.3.0 )**
 
-To use the Spark-Structured Streaming library in your project, you can include it as a dependency using Maven or SBT. Here's how:
+To use the Spark3-Structured Streaming in your project, you can include these packages below as dependencies using Maven or SBT. Here's how:
 
 - **Maven**
     
